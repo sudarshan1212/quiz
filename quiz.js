@@ -45,7 +45,7 @@ let questions=[{
     ]
 }
 ]
-// console.log(questions[0].answer[0].correct);
+// // console.log(questions[0].answer[0].correct);
 const Question=document.querySelector('#question')
 const ansewers=document.querySelector('#ansewer-buttons')
 const next=document.querySelector('#next-button')
